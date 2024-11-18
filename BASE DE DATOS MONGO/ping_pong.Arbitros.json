@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "673a849bef64e6abefc91577"
+  },
+  "id": "1",
+  "nombre": "Alexander",
+  "apellido": "Paredes",
+  "pais": "España",
+  "certificancion": "Internacional"
+},
+{
+  "_id": {
+    "$oid": "673a849bef64e6abefc91578"
+  },
+  "id": "2",
+  "nombre": "Maria",
+  "apellido": "Espinoza",
+  "país": "Argentina",
+  "certificancion": "Internacional"
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "673a8548ef64e6abefc91579"
+  },
+  "id": "1",
+  "fecha": "12 abril del 2057",
+  "hora": "15:27",
+  "lugar": "Suecia",
+  "jugador1_id": "1",
+  "jugador2_id": "2",
+  "arbitro_id": "1",
+  "resultado_id": "3:2"
+}]

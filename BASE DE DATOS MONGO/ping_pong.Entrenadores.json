@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "673a8447ef64e6abefc91575"
+  },
+  "id": "1",
+  "nombre": "Brian",
+  "apellido": "Smith",
+  "experiencia": "12",
+  "pais": "Estados Unidos"
+},
+{
+  "_id": {
+    "$oid": "673a8447ef64e6abefc91576"
+  },
+  "id": "2",
+  "nombre": "Yulia",
+  "apellido": "Kevinovsna",
+  "experiencia": "23",
+  "pais": "Rusia"
+}]

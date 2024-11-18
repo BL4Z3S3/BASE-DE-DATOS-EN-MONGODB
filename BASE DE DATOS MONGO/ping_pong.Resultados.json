@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "673a8577ef64e6abefc9157a"
+  },
+  "id": "1",
+  "encuentro_id": "1",
+  "ganador_id": "2",
+  "puntos_jugador1": "2",
+  "puntos_jugador2": "3"
+}]

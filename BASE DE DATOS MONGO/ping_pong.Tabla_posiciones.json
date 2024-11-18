@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "673a8596ef64e6abefc9157b"
+  },
+  "id": "1",
+  "deportista_id": "1",
+  "partidos_jugados": "1",
+  "partidos_ganados": "0",
+  "partidos_perdidos": "1",
+  "puntos": "0"
+},
+{
+  "_id": {
+    "$oid": "673a8596ef64e6abefc9157c"
+  },
+  "id": "2",
+  "deportista_id": "2",
+  "partidos_jugados": "1",
+  "partidos_ganados": "1",
+  "partidos_perdidos": "0",
+  "puntos": "3"
+}]
